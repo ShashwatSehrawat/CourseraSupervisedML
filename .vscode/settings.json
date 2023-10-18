@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "cmap",
         "deeplearning",
         "dlblue",
         "dlcolors",
@@ -7,10 +8,27 @@
         "dlmagenta",
         "dlorange",
         "dlpurple",
+        "figsize",
+        "fontsize",
         "gridspec",
+        "hlines",
         "ipywidgets",
+        "meshgrid",
         "mplstyle",
+        "suptitle",
+        "vlines",
+        "wireframe",
+        "xaxis",
+        "xhigh",
         "xlabel",
-        "ylabel"
+        "xlim",
+        "xlow",
+        "yaxis",
+        "yhigh",
+        "ylabel",
+        "ylim",
+        "ylow",
+        "zaxis",
+        "zlabel"
     ]
 }
