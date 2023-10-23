@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "arange",
         "cmap",
         "deeplearning",
         "dlblue",
@@ -13,9 +14,14 @@
         "gridspec",
         "hlines",
         "ipywidgets",
+        "loadtxt",
         "meshgrid",
         "mplstyle",
+        "sharey",
+        "skiprows",
+        "sqft",
         "suptitle",
+        "unnormalized",
         "vlines",
         "wireframe",
         "xaxis",
